@@ -1,0 +1,1 @@
+# logseq-notes-template
