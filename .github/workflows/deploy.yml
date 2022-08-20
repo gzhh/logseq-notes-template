@@ -36,9 +36,9 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          repository-name: gzhh/logseq-notes
-          branch: master # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
+          branch: master # The branch the action should deploy to.
+          repository-name: gzhh/logseq-notes
+          token: ${{ secrets.PERSONAL_TOKEN }}
           clean: true
           single-commit: true
-          token: ${{ secrets.PERSONAL_TOKEN }}
