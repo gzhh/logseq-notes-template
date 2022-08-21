@@ -12,7 +12,10 @@
   :block/updated-at 1660838444821}
  {:block/name "aug 20th, 2022",
   :block/created-at 1660924817139,
-  :block/updated-at 1660981429194}
+  :block/updated-at 1661000675631}
+ {:block/name "aug 21st, 2022",
+  :block/created-at 1661011217134,
+  :block/updated-at 1661049143257}
  {:block/name "b",
   :block/created-at 1660982684673,
   :block/updated-at 1660982684673}
@@ -25,12 +28,9 @@
  {:block/name "cancelled",
   :block/created-at 1660982684673,
   :block/updated-at 1660982684673}
- {:block/name "card",
-  :block/created-at 1660982607572,
-  :block/updated-at 1660982725595}
  {:block/name "contents",
   :block/created-at 1660982684673,
-  :block/updated-at 1660982684673}
+  :block/updated-at 1661000888817}
  {:block/name "doing",
   :block/created-at 1660982684673,
   :block/updated-at 1660982684673}
@@ -56,14 +56,5 @@
   :block/created-at 1660982684673,
   :block/updated-at 1660982684673}
  {:block/name "waiting",
-  :block/created-at 1660982684673,
-  :block/updated-at 1660982684673}
- {:block/name "标题一",
-  :block/created-at 1660982622952,
-  :block/updated-at 1660982622952}
- {:block/name "标题二",
-  :block/created-at 1660982643123,
-  :block/updated-at 1660982643123}
- {:block/name "测试",
-  :block/created-at 1660982412164, 
-  :block/updated-at 1660982412164}]
+  :block/created-at 1660982684673, 
+  :block/updated-at 1660982684673}]
