@@ -1,0 +1,24 @@
+- Work
+	- Laptop
+		- Macbook Pro 15-inch 2018 model
+		- ThinkPad E570
+	- Keyboard
+		- Logitech K380
+	- Mouse
+		- Logitech M590
+		- Logitech G304
+	- Magic Trackpad 2
+	- Monitor
+		- Dell
+- Phone
+	- iPhone 13 mini
+- Watch
+	- iWatch S7
+- Reading
+	- iPad Air4
+	- Kindle Paperwhite3
+- Headphone
+	- Airpods2
+	- Bose QC20
+- Photography
+	- NIKON D5600
