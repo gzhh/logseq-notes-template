@@ -57,7 +57,7 @@
  ;; When :all-pages-public? true, export repo would export all pages within that repo.
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
- ;; :publishing/all-pages-public? true
+ :publishing/all-pages-public? true
 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
@@ -74,6 +74,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
+ :default-home {:page "README" :sidebar ["contents"]}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -265,10 +266,9 @@
  ;;  :media "[[quick capture]] **{time}**: {url}"}
  }
 
-
 ;; Custom config
- :publishing/all-pages-public? true
- :default-home {:page "GZHH's wiki"}
- :journal/page-title-format "yyyy-MM-dd"
+;; :publishing/all-pages-public? true
+;; :default-home {:page "GZHH's wiki"}
+;; :journal/page-title-format "yyyy-MM-dd"
 ;; :favorites []
 
