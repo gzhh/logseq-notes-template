@@ -266,6 +266,6 @@
  }
 
 ;; Custom config
-:default-home {:page "GZHH Wiki"}
-;; :journals/page-title-format "yyyy-MM-dd"
+:default-home {:page "Home"}
+:journal/page-title-format "yyyy-MM-dd"
 
